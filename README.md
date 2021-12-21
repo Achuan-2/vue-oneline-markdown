@@ -1,6 +1,6 @@
 # vue-oneline-markdown
 
-link: https://achuan-2.top/vue-oneline-markdown/
+link: https://achuan-2.github.io/vue-oneline-markdown/
 
 ## Project setup
 ```
